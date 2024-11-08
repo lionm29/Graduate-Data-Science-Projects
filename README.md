@@ -4,7 +4,7 @@ This repository contains various projects and assignments completed during my gr
 
 ## Projects
 
-1. **Machine Learning**  
+1) **Machine Learning**  
    This project focuses on classifying diabetes cases using traditional machine learning algorithms, including k-nearest neighbors, decision trees, and support vector machines (SVM). A nested cross-validation approach was used to optimize hyperparameters. 
 
 2. **Clustering for Customer Segmentation**  
